@@ -1,8 +1,4 @@
 # E-Commerce
-The possibility of buying from anywhere, at any time and from multiple devices has favoured the rise of online shopping in our country. But online sales are not homogeneous in both men and women, which is why we have ventured to review how men and women buy online.
-
-When carrying out your eCommerce strategy, you need to know who your product’s target is. Buying decisions change according to the gender of consumers. For example, what women may find amazing, men could find it a normal object. That is the reason why we should establish a different strategy for our campaigns, depending on the target.
-
-It is therefore important to understand the characteristics that differentiate men and women and their needs and purchasing decisions, since in many cases varies according to gender.
+is one of the best sites when it comes to online shopping for men. The finest of material, superior design and unbeatable style go into the making of our men’s shopping collection. Our range of online shopping men’s wear, accessories, footwear and personal care products are second to none. Compared with other men’s shopping sites, Myntra brings you the best price products which won’t hurt your pocket. With seasonal discounts on trendy casual wear, suits, blazers, sneakers and more, online shopping for men at Myntra just gets even more irresistible!
 
 [wireframe add mockups](https://drive.google.com/file/d/14FKIl58XQ54JUBF_SZwcyjS-dOqP5r0V/view)
