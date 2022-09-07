@@ -5,4 +5,4 @@ When carrying out your eCommerce strategy, you need to know who your product’s
 
 It is therefore important to understand the characteristics that differentiate men and women and their needs and purchasing decisions, since in many cases varies according to gender.
 
-[wireframe add mockups]([path%20with%20spaces/other_file.md](https://drive.google.com/file/d/14FKIl58XQ54JUBF_SZwcyjS-dOqP5r0V/view))
+[wireframe add mockups](https://drive.google.com/file/d/14FKIl58XQ54JUBF_SZwcyjS-dOqP5r0V/view)
